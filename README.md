@@ -1,4 +1,4 @@
-# jiheondev3.github.io
+Source for https://jiheondev3.online, my personal website.
 
 ## Running in vscode
 
